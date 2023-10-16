@@ -8,7 +8,7 @@ Introdução Loren IpsumLoren IpsumLoren IpsumLoren IpsumLoren IpsumLoren IpsumL
 **db**: categoria/agrupamento de tasks do tipo *database*
 **migrate**: realiza a migração do banco executando as alterações pendes no banco de dados
 
-## task
+## Task
    rails new
 **rails**: comando que indica para o cmd que você quer usar as funções do framework rails
 **new**: comando utilizado para criaçao de nova pasta
