@@ -14,10 +14,41 @@ Introdução Loren IpsumLoren IpsumLoren IpsumLoren IpsumLoren IpsumLoren IpsumL
 **new**: comando utilizado para criaçao de nova pasta
 
 ##Task
-    rails generate model: Gera um novo modelo, que representa uma tabela no banco de dados.
+    **rails generate model**: Gera um novo modelo, que representa uma tabela no banco de dados.
 
 ## Scaffold
 **Scaffold**: é uma funcionalidade; um modelo que define a estrutura de dados e como eles são armazenados no banco e até mesmo age como controlador.
+
+## sistema operacional
+
+**sistema operacional**: é o sistema principal do nosso pc, celular etc.., qual nele são hospedadas suas funcionalidades, interfaces, recursos e outras inúmeras particularidades, assim possibilitando a realização das mais diversas atividades atravez dele.
+
+## git 
+
+ **git hub**: é um repositório para guardar versões 
+
+## virtual box
+
+**virtual box**: utilizada para criar uma máquina virtual.
+
+## Visual studio code
+
+**visual studio code**: é um editor de texto que permite criar um ambiente de desenvolvimento
+
+## RVM
+
+**RVM**: é um gestor de versões do rails
+
+
+## Ruby
+
+**ruby**: é uma linguagem de programação
+
+## Ruby on rails 
+
+**ruby on rails**: é um framework de desenvolvimento.
+
+
 
 ## Task
     Vagrant
