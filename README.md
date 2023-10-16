@@ -13,7 +13,11 @@ Introdução Loren IpsumLoren IpsumLoren IpsumLoren IpsumLoren IpsumLoren IpsumL
 **rails**: comando que indica para o cmd que você quer usar as funções do framework rails
 **new**: comando utilizado para criaçao de nova pasta
 
+##Task
+    rails generate model: Gera um novo modelo, que representa uma tabela no banco de dados.
+
 ## Scaffold
+**Scaffold**: é uma funcionalidade; um modelo que define a estrutura de dados e como eles são armazenados no banco e até mesmo age como controlador.
 
 ## Task
     Vagrant
