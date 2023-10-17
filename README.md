@@ -8,13 +8,15 @@ Introdução Loren IpsumLoren IpsumLoren IpsumLoren IpsumLoren IpsumLoren IpsumL
 **db**: categoria/agrupamento de tasks do tipo *database*
 **migrate**: realiza a migração do banco executando as alterações pendes no banco de dados
 
-## Task
-   rails new
-**rails**: comando que indica para o cmd que você quer usar as funções do framework rails
-**new**: comando utilizado para criaçao de nova pasta
+## rails
 
-##Task
-    **rails generate model**: Gera um novo modelo, que representa uma tabela no banco de dados.
+**rails**: comando que indica para o cmd que você quer usar as funções do framework rails
+**rails new**: comando utilizado para criaçao de nova pasta
+**rails server**: comando utilizado para inicializar um servidor
+**rails generate** comando utilizado para gerar um novo controlador
+**rails test** comando utilizado para executar testes
+**rails route** comando utilizado para exibir uma lista de todas as rotas definidas em seu aplicativo
+**rails generate model**: Gera um novo modelo, que representa uma tabela no banco de dados.
 
 ## Scaffold
 **Scaffold**: é uma funcionalidade; um modelo que define a estrutura de dados e como eles são armazenados no banco e até mesmo age como controlador.
@@ -25,7 +27,8 @@ Introdução Loren IpsumLoren IpsumLoren IpsumLoren IpsumLoren IpsumLoren IpsumL
 
 ## git 
 
- **git hub**: é um repositório para guardar versões 
+ **git hub**: é um repositório para guardar versões
+ **git pull**
 
 ## virtual box
 
